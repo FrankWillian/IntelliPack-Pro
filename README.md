@@ -17,7 +17,7 @@ O projeto segue a arquitetura Domain-Driven Design (DDD) e possui a seguinte est
 
 - Node.js: [Instalação do Node.js](https://nodejs.org/)
 
-## Instalação
+## Instalaçã0
 
 1. Clone o repositório:
 
